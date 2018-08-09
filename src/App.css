@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: crimson;
+  background-color: darkred;
 }
 
 .App {
@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding-top: 20%;
+  padding-top: 15%;
   margin: auto;
   height: 100%;
   width: 100%;
@@ -42,6 +42,10 @@ body {
 
 .App-intro {
   font-size: large;
+}
+
+.App-typography {
+  padding-top: 20px;
 }
 
 @keyframes App-logo-spin {
